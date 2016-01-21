@@ -1,0 +1,17 @@
+{
+  "alwaysNotifyForPaths": [
+    {
+      "name": "jcsmorais",
+      "files": [
+        "tests/*.js"
+      ]
+    },
+    {
+      "name": "alias-mac",
+      "files": [
+        "README.md"
+      ]
+    }
+  ],
+  findPotentialReviewers: false
+}
